@@ -1,0 +1,24 @@
+{
+  "name": "semantic-ternary-ts",
+  "version": "0.1.0",
+  "description": "An NPM package providing a semantic way to perform ternary expressions through a function, simplifying conditional logic in your JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscareduardolp6/Semantic-Ternary-Ts.git"
+  },
+  "keywords": [
+    "ternary",
+    "semantic",
+    "typescript"
+  ],
+  "author": "Oscar López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscareduardolp6/Semantic-Ternary-Ts/issues"
+  },
+  "homepage": "https://github.com/oscareduardolp6/Semantic-Ternary-Ts#readme"
+}
